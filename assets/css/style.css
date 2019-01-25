@@ -204,6 +204,8 @@ h2:hover {
 .portfolio p{
     font-size: 0.875em;
     margin:0;
+    text-align: center;
+    margin-right: 10%;
 }
 
 .portfolio a{
