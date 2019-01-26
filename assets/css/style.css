@@ -38,6 +38,11 @@ img {
     width: 90%;
 }
 
+.portfolio img:hover {
+    border: 2px solid red;
+    border-radius: 25px;
+}
+
 aside {
     position: fixed;
     background: #222;
@@ -115,12 +120,12 @@ header h5 {
     color: #b2b2b2;
 }
 
-.fab {
+.fab,
+.far {
     color: white;
     font-size: 2em;
     padding: 5px;
     margin: 5px 5px 15px 5px;
-
 }
 
 h2:hover {
