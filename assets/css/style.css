@@ -43,7 +43,7 @@ img {
     border-radius: 25px;
 }
 
-aside {
+nav {
     position: fixed;
     background: #222;
     top: 0px;
@@ -56,7 +56,7 @@ aside {
     padding: 0;
 }
 
-aside img {
+nav img {
     /* filter: grayscale(100%) contrast(50%) brightness(100%); */
     margin: 10px 0 25px 0;
 }
@@ -65,7 +65,7 @@ aside img {
     font-size: 36px;
 }
 
-aside a {
+nav a {
     display: block;
     padding: 15px 0;
     color: white;
@@ -75,21 +75,21 @@ aside a {
     letter-spacing: 2px;
 }
 
-aside p {
+nav p {
     margin: 0;
     padding: 0;
 }
 
-aside a:hover {
+nav a:hover {
     background-origin: #000;
     color: rgb(225, 0, 0);
 }
 
-/* aside nav a:nth-child(2) {
+/* nav nav a:nth-child(2) {
     background: #000;
 }
 
-aside nav a:nth-child(2):hover {
+nav nav a:nth-child(2):hover {
     background: rgb(225, 0, 0);
     color: #222;
 } */
@@ -128,6 +128,14 @@ header h5 {
     margin: 5px 5px 15px 5px;
 }
 
+.fab:hover {
+    color: red
+}
+
+.far:hover {
+    color: red
+}
+
 h2:hover {
     color: red;
 }
@@ -151,6 +159,7 @@ h2:hover {
     padding-bottom: 10px;
     margin: 100px 0 0 0;
     letter-spacing: 4px;
+    text-align: center;
 }
 
 .about p {
@@ -204,6 +213,7 @@ h2:hover {
     font-weight: bold;
     letter-spacing: 2px;
     margin-right: 10%;
+    margin-bottom: 0;
 }
 
 .portfolio p{
@@ -336,7 +346,7 @@ input[type="submit"]:hover {
 }
 
 @media (max-width: 601px) {
-    aside {
+    nav {
         display: block;
     }
     main {
