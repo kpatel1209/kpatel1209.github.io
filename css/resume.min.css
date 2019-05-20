@@ -169,10 +169,25 @@ section.resume-section .resume-item .resume-date {
 }
 
 #google {
-  width: 60%; 
-  margin: 0;
+  width: 135px;
+  height: 40px;
+  margin-left: 10px;
+  padding-right: 3px;
+ }
+
+.col-sm-6 {
   padding: 0;
-  margin-right: 2%;
+ }
+
+ .btn-primary {
+   background-color: #0b409c;
+   border-color: #dcdcdc;
+ }
+
+ .card {
+   min-height: 425px;
+   border-color: #0b409c;
+   border-width: 2px;
  }
 
 @media (min-width:768px) {
