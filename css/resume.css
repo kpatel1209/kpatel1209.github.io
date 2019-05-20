@@ -169,6 +169,10 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+#google {
+ width: 50%; 
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
