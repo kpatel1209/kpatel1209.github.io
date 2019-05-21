@@ -83,7 +83,7 @@ p.lead {
 }
 
 .list-inline-item:not(:last-child) {
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -229,3 +229,56 @@ a:focus,
 a:hover {
   color: #824027
 }
+
+.fa-html5 {
+  margin-left: 12%;
+}
+
+.fa-css3-alt {
+  margin-left: 3%;
+}
+
+.fa-bootstrap {
+  margin-left: 25%;
+}
+
+.fa-js-square {
+  margin-left: 25%;
+}
+
+.devicon-jquery-plain {
+  margin-left: 7%;
+}
+
+.npm {
+  margin-left: 15%;
+}
+
+.fa-github {
+  margin-left: 8%;
+}
+
+.devicon-heroku-plain {
+  margin-left: 10%;
+}
+
+.devicon-mongodb-plain {
+  margin-left: 20%;
+}
+
+.devicon-express-original {
+  margin-left: 12%;
+}
+
+#react-native {
+  margin-left: 25%;
+}
+
+.fa-node {
+  margin-left: 2%;
+}
+
+.devicon-sequelize-plain {
+  margin-left: 19%;
+}
+
