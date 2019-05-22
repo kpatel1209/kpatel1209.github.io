@@ -251,7 +251,7 @@ a:hover {
 }
 
 .npm {
-  margin-left: 15%;
+  margin-left: 17%;
 }
 
 .fa-github {
@@ -282,3 +282,10 @@ a:hover {
   margin-left: 19%;
 }
 
+.slack {
+  margin-left: 5%;
+}
+
+.d3 {
+  margin-left: 5%;
+}
