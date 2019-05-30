@@ -30,20 +30,24 @@ h6 {
 
 h1 {
   font-size: 6rem;
-  line-height: 5.5rem
+  line-height: 5.5rem;
 }
 
 h2 {
-  font-size: 3.5rem
+  font-size: 3.5rem;
 }
 
 h3 {
-  font-size: 2rem
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.50rem;
 }
 
 p.lead {
   font-size: 1.15rem;
-  font-weight: 400
+  font-weight: 400;
 }
 
 .subheading {
@@ -173,26 +177,27 @@ section.resume-section .resume-item .resume-date {
   height: 40px;
   margin-left: 10px;
   padding-right: 3px;
- }
+}
 
 .col-sm-6 {
   padding: 0;
- }
+}
 
- .btn-primary {
-   background-color: #0b409c;
-   border-color: #dcdcdc;
- }
+.btn-primary {
+  background-color: #0b409c;
+  border-color: #dcdcdc;
+}
 
- .card {
-   height: 600px;
-   border-color: #868e96;
-   border-width: 2px;
- }
+.card {
+  width: 20rem;
+  height: 635px;
+  border-color: #868e96;
+  border-width: 2px;
+}
 
- .underline {
-   text-decoration: underline;
- }
+.underline {
+  text-decoration: underline;
+}
 
 @media (min-width:768px) {
   section.resume-section {
@@ -231,7 +236,7 @@ a {
 a:active,
 a:focus,
 a:hover {
-  color: #824027
+  color: black;
 }
 
 .fa-html5 {
@@ -294,6 +299,8 @@ a:hover {
   margin-left: 5%;
 }
 
-.role, .technologies, .description {
+.role,
+.technologies,
+.description {
   padding: 10px, 0px;
 }
