@@ -185,9 +185,13 @@ section.resume-section .resume-item .resume-date {
  }
 
  .card {
-   min-height: 425px;
-   border-color: #0b409c;
+   height: 600px;
+   border-color: #868e96;
    border-width: 2px;
+ }
+
+ .underline {
+   text-decoration: underline;
  }
 
 @media (min-width:768px) {
@@ -288,4 +292,8 @@ a:hover {
 
 .d3 {
   margin-left: 5%;
+}
+
+.role, .technologies, .description {
+  padding: 10px, 0px;
 }
