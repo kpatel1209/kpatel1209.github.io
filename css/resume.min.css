@@ -91,7 +91,8 @@ p.lead {
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 800;
+  font-weight: 700;
+  margin-left: 2.5rem;
   letter-spacing: .05rem;
   text-transform: uppercase
 }
@@ -100,9 +101,17 @@ p.lead {
   outline-color: #d48a6e
 }
 
+.fas {
+  margin-right: 1rem;
+}
+
+.fa-graduation-cap {
+  margin-right: .75rem;
+}
+
 @media (min-width:992px) {
   #sideNav {
-    text-align: center;
+    text-align: left;
     position: fixed;
     top: 0;
     left: 0;
