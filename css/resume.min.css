@@ -276,10 +276,6 @@ a:hover {
   margin-left: 17%;
 }
 
-/* .fa-github {
-  margin-left: 1%;
-} */
-
 .devicon-heroku-plain {
   margin-left: 10%;
 }
@@ -331,6 +327,6 @@ a:hover {
   margin-left: 8%;
 }
 
-.fa-github {
+#github {
   margin-left: 10%;
 }
