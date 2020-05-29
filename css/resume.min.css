@@ -91,7 +91,7 @@ p.lead {
 }
 
 .list-inline-item:not(:last-child) {
-  margin-right: 1rem;
+  margin-right: 1.50rem;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -115,6 +115,7 @@ p.lead {
 
 .devicon-typescript-plain {
   margin-left: 1rem;
+  size: 42mm;
 }
 
 .ionic {
