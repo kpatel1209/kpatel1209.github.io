@@ -86,6 +86,10 @@ p.lead {
   color: #0b409c
 }
 
+.iconify i:hover {
+  color: #0b409c
+}
+
 .list-inline-item:not(:last-child) {
   margin-right: 1rem;
 }
@@ -107,6 +111,18 @@ p.lead {
 
 .fa-graduation-cap {
   margin-right: .75rem;
+}
+
+.typescript {
+  margin-left: 1rem;
+}
+
+.ionic {
+  margin-left: .25rem;
+}
+
+.fa-github {
+  margin-left: .25rem;
 }
 
 @media (min-width:992px) {
