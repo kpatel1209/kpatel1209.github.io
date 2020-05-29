@@ -113,19 +113,6 @@ p.lead {
   margin-right: .75rem;
 }
 
-.devicon-typescript-plain {
-  margin-left: 1rem;
-  size: 42mm;
-}
-
-.ionic {
-  margin-left: .25rem;
-}
-
-.fa-github {
-  margin-left: .25rem;
-}
-
 @media (min-width:992px) {
   #sideNav {
     text-align: left;
@@ -333,4 +320,17 @@ a:hover {
 .technologies,
 .description {
   padding: 10px, 0px;
+}
+
+.devicon-typescript-plain {
+  margin-left: 20%;
+  size: 42mm;
+}
+
+.ionic {
+  margin-left: 8%;
+}
+
+.fa-github {
+  margin-left: 10%;
 }
