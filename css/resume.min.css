@@ -252,27 +252,27 @@ a:hover {
   color: black;
 }
 
-.fa-html5 {
-  margin-left: 12%;
+.devicon-html5-plain {
+  margin-left: 4%;
 }
 
-.fa-css3-alt {
-  margin-left: 3%;
+.css3-text {
+  margin-left: 14%;
 }
 
-.fa-bootstrap {
-  margin-left: 25%;
+.devicon-bootstrap-plain {
+  margin-left: 23%;
 }
 
-.fa-js-square {
-  margin-left: 25%;
+.devicon-javascript-plain {
+  margin-left: 21%;
 }
 
 .devicon-jquery-plain {
   margin-left: 7%;
 }
 
-.npm {
+.npm-text {
   margin-left: 17%;
 }
 
@@ -288,7 +288,7 @@ a:hover {
   margin-left: 12%;
 }
 
-.fa-angular {
+.devicon-angularjs-plain {
   margin-left: 25%;
 }
 
@@ -296,7 +296,7 @@ a:hover {
   margin-left: 25%;
 }
 
-.fa-node {
+.devicon-nodejs-plain-wordmark {
   margin-left: 2%;
 }
 
